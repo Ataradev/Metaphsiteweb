@@ -1,0 +1,46 @@
+.citaBlue{
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height:865px;
+}
+.txtb4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family:Inter;
+    color: var(--text-color);
+    cursor: pointer;
+}
+.txtb4:hover,
+.instaClass:hover{
+    opacity: 0.7;
+}
+.txtb4:active,
+.instaClass:active{
+    opacity: 0.3;
+}
+.citaHome {
+margin-top:1px;
+margin-left: auto;
+margin-right:auto;
+display : block;
+width: 451.5px;
+height: 600px;
+filter: grayscale(1) contrast(1.5) brightness(1);
+opacity: 0.4;
+cursor: pointer;
+}
+.instaClass{
+    margin-top: 30px;
+    color: var(--text-color);
+    text-align : center;
+    text-decoration: none;
+}
+.citaHome:hover{
+    filter: none;
+    opacity: 1;
+    transition-delay: 0.25s;
+}

@@ -1,0 +1,18 @@
+
+  .footer{
+padding-top : 10px;
+padding-bottom: 10px;
+background-color: var(--base-variant);
+border: solid;
+border-width: 1px;
+position:static;
+bottom: 0;
+left: 0;
+width: 100%;
+}
+  .footer-t{
+text-align: center;
+font-size: 15px;
+font-family:Roboto;
+color: var(--text-color);
+  }

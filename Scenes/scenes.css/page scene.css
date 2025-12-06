@@ -1,0 +1,12 @@
+:root{
+--base-color: #262c41;
+--base-variant: #3f4763d8;
+--text-color: #ffffff;
+--primary-color: #828aff ;
+--accent-color: #769867;
+}
+
+
+.fond{
+background-color: var(--base-color);
+}

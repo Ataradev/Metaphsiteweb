@@ -1,0 +1,10 @@
+
+:root{
+--base-color: #262c41;
+--base-variant: #3f4763d8;
+--text-color: #ffffff;
+}
+body{
+background-color: var(--base-color);
+min-height: 100vh;
+}

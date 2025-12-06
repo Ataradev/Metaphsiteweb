@@ -1,0 +1,56 @@
+.Visuels {
+    display: grid;
+    grid-template-rows:;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: var(--base-variant);
+}
+.classBlue{
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: var(--base-variant);
+}
+.txtb3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+    color: var(--text-color);
+    cursor: pointer;
+    text-decoration: none;
+}
+.txtb3:hover,
+.instaClass:hover{
+    opacity: 0.7;
+}
+.txtb3:active,
+.instaClass:active{
+    opacity: 0.3;
+}
+.classikHome {
+width: 451.5px;
+    height: 600px;
+    display : block;
+    margin: auto;
+    filter: grayscale(1) contrast(1.5) brightness(1);
+    opacity: 0.4;
+    cursor: pointer;
+}
+.classikHome:hover{
+    filter: none;
+    opacity: 1;
+   transition-delay: 0.25s;
+}
+.instaClass{
+margin-top: 30px;
+color: var(--text-color);
+text-align : center;
+text-decoration: none;
+margin-bottom: 30px;
+}
