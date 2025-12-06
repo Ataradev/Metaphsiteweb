@@ -21,6 +21,5 @@ opacity: 0.3;
 .sceneHome{
 display: block;
 margin: auto;
-max-width: 870px;
-min-width: 320px;
+width: 670px;
   }
