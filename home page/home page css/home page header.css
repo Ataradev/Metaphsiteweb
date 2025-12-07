@@ -13,6 +13,9 @@ top :0px;
 }
 .menu {
 width: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .imgh2{
 width: 100%;
