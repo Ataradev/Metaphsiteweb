@@ -1,6 +1,9 @@
 .Scenes{
 margin-top: 20px;
 margin-bottom: 70px;
+display: grid;
+grid-template-rows:;
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 .txtb2{
 text-align: center;
