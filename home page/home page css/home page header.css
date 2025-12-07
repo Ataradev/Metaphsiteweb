@@ -16,12 +16,10 @@ width: 40px;
 display: flex;
 justify-content: center;
 align-items: center;
+margin-left: 10px;
 }
 .imgh2{
 width: 100%;
-top: 15px;
-left: 30px;
-position: absolute;
   }
 .imgh2,
 .buttonh{
