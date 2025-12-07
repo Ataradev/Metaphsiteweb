@@ -1,9 +1,11 @@
 .Scenes{
 margin-top: 20px;
 margin-bottom: 70px;
+}
+.videoScenes{
 display: grid;
 grid-template-rows:;
-grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));  
 }
 .txtb2{
 text-align: center;
