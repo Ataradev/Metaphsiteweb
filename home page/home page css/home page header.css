@@ -21,6 +21,7 @@ align-items: center;
 width: 100%;
 top: 15px;
 left: 30px;
+position: absolute;
   }
 .imgh2,
 .buttonh{
